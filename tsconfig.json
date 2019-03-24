@@ -1,0 +1,17 @@
+{
+  "compilerOptions" : {
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "target" : "es5",
+    "sourceMap" : true,
+    "jsx" : "react",
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude" : [
+    "node_modules",
+    "bower_components",
+    "build"
+  ],
+  "compileOnSave" : false
+}

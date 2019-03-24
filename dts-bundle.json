@@ -1,0 +1,9 @@
+{
+  "name": "sideflux",
+  "main": "src/Sideflux.d.ts",
+  "out" : "../index.d.ts",
+
+  "removeSource": true,
+
+  "outputAsModuleFolder" : true
+}
